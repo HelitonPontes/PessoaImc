@@ -1,0 +1,7 @@
+C:\Users\Heliton\source\repos\PessoaImc\PessoaImc\bin\Debug\PessoaImc.exe.config
+C:\Users\Heliton\source\repos\PessoaImc\PessoaImc\bin\Debug\PessoaImc.exe
+C:\Users\Heliton\source\repos\PessoaImc\PessoaImc\bin\Debug\PessoaImc.pdb
+C:\Users\Heliton\source\repos\PessoaImc\PessoaImc\obj\Debug\PessoaImc.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\PessoaImc\PessoaImc\obj\Debug\PessoaImc.csproj.CoreCompileInputs.cache
+C:\Users\Heliton\source\repos\PessoaImc\PessoaImc\obj\Debug\PessoaImc.exe
+C:\Users\Heliton\source\repos\PessoaImc\PessoaImc\obj\Debug\PessoaImc.pdb
